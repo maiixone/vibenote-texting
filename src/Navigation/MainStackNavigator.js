@@ -5,8 +5,8 @@ import {createStackNavigator} from '@react-navigation/stack'
 
 import SignInScreen from '../screens/SignInScreen'
 import GroupScreen from '../screens/GroupScreen'
-import AddGroupScreen from'../screens/AddGroupScreen'
-import ChatScreen from'../screens/ChatScreen'
+import AddGroupScreen from '../screens/AddGroupScreen'
+import ChatScreen from '../screens/ChatScreen'
 
 const Stack = createStackNavigator()
 
